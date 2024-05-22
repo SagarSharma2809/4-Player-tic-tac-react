@@ -1,6 +1,6 @@
 
 import './App.css';
-import Board from './Board';
+import Game from './Game';
 
 
 function App() {
@@ -8,7 +8,10 @@ function App() {
 
   return (
     <>
-      <Board />
+
+      <Game />
+
+
 
     </>
   )

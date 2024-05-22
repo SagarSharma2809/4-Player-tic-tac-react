@@ -1,0 +1,14 @@
+.Board {
+    margin: 2rem;
+    width: 40%;
+    background-color: rgba(127, 255, 212, 0.526);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* 4 columns */
+    gap: 0.3rem;
+
+    padding: 10px;
+
+    box-sizing: border-box;
+    /* Ensure padding and border are included in the width */
+}

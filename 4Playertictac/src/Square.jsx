@@ -1,9 +1,12 @@
 import './Square.css'
 
-export default function Square() {
+export default function Square({ num, value, clicFunc }) {
+
+    function handleClick() {
+        clicFunc(num);
+    }
     return (
-        <>
-            <button>X</button>
+        <><button onClick={handleClick}>{value}</button>
         </>
     )
 }

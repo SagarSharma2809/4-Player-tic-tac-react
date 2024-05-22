@@ -1,0 +1,11 @@
+{
+  "name": "4-player-tic-tac-react",
+  "version": "1.0.0",
+  "description": "A 4 Player tic tac toe Game in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
