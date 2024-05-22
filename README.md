@@ -1,2 +1,2 @@
 # 4-Player-tic-tac-react
-A 4 Player tic tac toe Game in React
+A tic tac toe 4x4 Game in React
